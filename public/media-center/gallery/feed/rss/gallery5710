@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[del hospital]]></description>
+		<link>http://www.delinternationalhospital.com/media-center/gallery</link>
+		<lastBuildDate>Wed, 16 Oct 2019 09:57:04 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.delinternationalhospital.com/media-center/gallery?format=feed&amp;task=feed&amp;type=rss&amp;app_id=6"/>
+		<language>en-gb</language>
+		<item>
+			<title>4th Anniversary</title>
+			<link>http://www.delinternationalhospital.com/media-center/gallery/item/4th-anniversary</link>
+			<guid isPermaLink="true">http://www.delinternationalhospital.com/media-center/gallery/item/4th-anniversary</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 23 Oct 2018 06:18:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>Dental Screening</title>
+			<link>http://www.delinternationalhospital.com/media-center/gallery/item/dental-screening</link>
+			<guid isPermaLink="true">http://www.delinternationalhospital.com/media-center/gallery/item/dental-screening</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 23 Oct 2018 06:13:25 +0000</pubDate>
+		</item>
+		<item>
+			<title>Facilities</title>
+			<link>http://www.delinternationalhospital.com/media-center/gallery/item/facilities</link>
+			<guid isPermaLink="true">http://www.delinternationalhospital.com/media-center/gallery/item/facilities</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 23 Oct 2018 06:04:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>2nd Annivesary</title>
+			<link>http://www.delinternationalhospital.com/media-center/gallery/item/2nd-annivesary</link>
+			<guid isPermaLink="true">http://www.delinternationalhospital.com/media-center/gallery/item/2nd-annivesary</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 23 Oct 2018 02:39:42 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

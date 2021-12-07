@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Events &amp; Activities</title>
+		<description><![CDATA[del hospital]]></description>
+		<link>http://www.delinternationalhospital.com/media-center/events-activities</link>
+		<lastBuildDate>Wed, 16 Oct 2019 09:57:42 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.delinternationalhospital.com/media-center/events-activities/feed/rss/blog/activities?format=feed"/>
+		<language>en-gb</language>
+		<item>
+			<title>DelIntH Babytalk Class</title>
+			<link>http://www.delinternationalhospital.com/media-center/events-activities/item/delinth-babytalk-class</link>
+			<guid isPermaLink="true">http://www.delinternationalhospital.com/media-center/events-activities/item/delinth-babytalk-class</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 13 Oct 2018 03:28:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>DelIntH Senior Breast Cancer Screening</title>
+			<link>http://www.delinternationalhospital.com/media-center/events-activities/item/delinth-senior-breast-cancer-screening</link>
+			<guid isPermaLink="true">http://www.delinternationalhospital.com/media-center/events-activities/item/delinth-senior-breast-cancer-screening</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 13 Oct 2018 03:28:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>DelIntH Community Blood Drive</title>
+			<link>http://www.delinternationalhospital.com/media-center/events-activities/item/delinth-community-blood-drive</link>
+			<guid isPermaLink="true">http://www.delinternationalhospital.com/media-center/events-activities/item/delinth-community-blood-drive</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 13 Oct 2018 03:28:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>DelIntH Exercise &amp; Fitness Day</title>
+			<link>http://www.delinternationalhospital.com/media-center/events-activities/item/delinth-exercise-fitness-day</link>
+			<guid isPermaLink="true">http://www.delinternationalhospital.com/media-center/events-activities/item/delinth-exercise-fitness-day</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 13 Oct 2018 03:28:23 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

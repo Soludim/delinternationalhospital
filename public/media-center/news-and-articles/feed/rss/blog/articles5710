@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>News and Articles</title>
+		<description><![CDATA[del hospital]]></description>
+		<link>http://www.delinternationalhospital.com/media-center/news-and-articles</link>
+		<lastBuildDate>Wed, 16 Oct 2019 09:57:35 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.delinternationalhospital.com/media-center/news-and-articles/feed/rss/blog/articles?format=feed"/>
+		<language>en-gb</language>
+		<item>
+			<title>Food Poisoning, Symptoms and Remedies</title>
+			<link>http://www.delinternationalhospital.com/media-center/news-and-articles/item/food-poisoning-symptoms-and-remedies</link>
+			<guid isPermaLink="true">http://www.delinternationalhospital.com/media-center/news-and-articles/item/food-poisoning-symptoms-and-remedies</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 13 Oct 2018 03:00:14 +0000</pubDate>
+		</item>
+		<item>
+			<title>Breast Cancer Awareness</title>
+			<link>http://www.delinternationalhospital.com/media-center/news-and-articles/item/breast-cancer-awareness</link>
+			<guid isPermaLink="true">http://www.delinternationalhospital.com/media-center/news-and-articles/item/breast-cancer-awareness</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 13 Oct 2018 02:54:56 +0000</pubDate>
+		</item>
+		<item>
+			<title>Breastfeeding is Definitely Natural, but It's Not Always Easy</title>
+			<link>http://www.delinternationalhospital.com/media-center/news-and-articles/item/breastfeeding-is-definitely-natural-but-it-s-not-always-easy</link>
+			<guid isPermaLink="true">http://www.delinternationalhospital.com/media-center/news-and-articles/item/breastfeeding-is-definitely-natural-but-it-s-not-always-easy</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 13 Oct 2018 02:47:24 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
